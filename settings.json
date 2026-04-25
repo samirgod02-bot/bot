@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Samir00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "DRAVIX_X.aternos.me",
